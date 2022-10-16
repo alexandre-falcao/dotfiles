@@ -72,3 +72,4 @@ export EDITOR=code
 export PYTHONBREAKPOINT=ipdb.set_trace
 sudo /etc/init.d/postgresql start
 export BROWSER='"/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"'
+sudo /etc/init.d/postgresql start
